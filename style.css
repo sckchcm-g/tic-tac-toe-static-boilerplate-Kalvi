@@ -21,15 +21,16 @@ h1{
 .flex {
     display: flex;
     flex-direction: row;
-    margin-left: 38%;
+    margin-left: 39%;
 }
 
 .Blocks {
     background-color: white;
-    height: 100px;
-    width: 100px;
-    margin: 7px;
+    height: 97px;
+    width: 97px;
+    margin: 6px;
     border-style: solid;
     border-radius: 14px;
     border-color: aliceblue;
+    box-shadow: 4px 4px gray;
 }
