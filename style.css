@@ -32,7 +32,7 @@ h1{
     border-style: solid;
     border-radius: 14px;
     border-color: rgb(255, 255, 255);
-    box-shadow: 4px 4px gray;
+    box-shadow: 2px 3px rgb(174, 174, 174);
 }
 
 p{
